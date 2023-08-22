@@ -1,7 +1,7 @@
 # Data Cleaning Portfolio Project using Nashville Housing Dataset (via SQL Server Management Studio)
 
 # Overview
-I carried outn the following activities during the data cleaning phase:
+Carried out the following activities during the data cleaning phase:
 1. Standardized date formats using CAST and CONVERT methods
 2. Replaced NULL values with the correct Property Addresses
 3. Used the SUBSTRING and CHARINDEX functions to break out PropertyAddress into individual columns like Address, City and State
